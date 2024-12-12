@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0747-min-cost-climbing-stairs) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1370-count-number-of-nice-subarrays) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0747-min-cost-climbing-stairs) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -122,4 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
