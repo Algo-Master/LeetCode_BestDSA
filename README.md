@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
