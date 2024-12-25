@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0780-max-chunks-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0210-course-schedule-ii) |
+| [1036-rotting-oranges](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0210-course-schedule-ii) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
