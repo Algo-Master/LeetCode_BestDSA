@@ -153,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1036-rotting-oranges) |
 ## Graph
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1036-rotting-oranges) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
