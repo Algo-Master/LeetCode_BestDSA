@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1036-rotting-oranges) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
@@ -188,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
