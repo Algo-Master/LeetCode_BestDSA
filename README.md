@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0149-max-points-on-a-line](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0215-kth-largest-element-in-an-array) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0747-min-cost-climbing-stairs) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0149-max-points-on-a-line) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0966-binary-subarrays-with-sum) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0149-max-points-on-a-line) |
 | [1013-fibonacci-number](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/2050-count-good-numbers) |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
