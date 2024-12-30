@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1370-count-number-of-nice-subarrays) |
+| [2050-count-good-numbers](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/2050-count-good-numbers) |
 ## Database
 |  |
 | ------- |
