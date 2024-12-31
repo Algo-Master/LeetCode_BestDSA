@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1706-min-cost-to-connect-all-points) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Dynamic Programming
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1706-min-cost-to-connect-all-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0149-max-points-on-a-line) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
