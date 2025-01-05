@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0780-max-chunks-to-make-sorted) |
 ## Sorting
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0547-number-of-provinces) |
@@ -226,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1706-min-cost-to-connect-all-points) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
