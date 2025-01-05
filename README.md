@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0780-max-chunks-to-make-sorted) |
 ## Sorting
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0210-course-schedule-ii) |
@@ -231,9 +233,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
