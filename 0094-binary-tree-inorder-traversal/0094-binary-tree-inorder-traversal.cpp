@@ -19,7 +19,35 @@ private:
     }
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        if(root != nullptr) inorder(root);
+        // if(root != nullptr) inorder(root);
+        // return traversal;
+
+        // Iterative way which i figured out
+
+        stack<TreeNode*> st;
+        st.push(root);
+
+        if(root == nullptr) return traversal;
+        unordered_map<TreeNode*, bool> m;
+
+        while(!st.empty()) {
+
+            TreeNode* node = st.top();
+
+            if(node->left != nullptr && !m[node->left]) {
+                st.push(node->left);
+                continue;
+            }
+
+            traversal.push_back(node->val);
+            st.pop();
+            m[node] = true;
+
+            if(node->right != nullptr) {
+                st.push(node->right);
+            }
+        }
+
         return traversal;
     }
 };
