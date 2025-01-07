@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0820-find-eventual-safe-states) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
