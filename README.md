@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1013-fibonacci-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0207-course-schedule) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0543-diameter-of-binary-tree) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0543-diameter-of-binary-tree) |
