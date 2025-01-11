@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0780-max-chunks-to-make-sorted) |
+| [0837-most-common-word](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0837-most-common-word) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1036-rotting-oranges) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0149-max-points-on-a-line) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0424-longest-repeating-character-replacement) |
+| [0837-most-common-word](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0837-most-common-word) |
 | [0966-binary-subarrays-with-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0424-longest-repeating-character-replacement) |
+| [0837-most-common-word](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0837-most-common-word) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0543-diameter-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0837-most-common-word) |
 <!---LeetCode Topics End-->
