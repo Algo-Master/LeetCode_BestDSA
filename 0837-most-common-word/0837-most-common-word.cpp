@@ -15,6 +15,7 @@ public:
             ch = tolower(ch);
         }
         
+        // Frequency calculation
         map<string, int> words_map;
 
         stringstream s(paragraph);
@@ -24,6 +25,7 @@ public:
             words_map[word]++;
         }
 
+        // Max count of word not present in banned vector
         int max_count = 0;
 
         for(auto &[word, count]: words_map) {
