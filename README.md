@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1046-max-consecutive-ones-iii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
