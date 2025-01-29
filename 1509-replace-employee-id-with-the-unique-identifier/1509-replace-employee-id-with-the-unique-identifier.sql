@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-SELECT EmployeeUNI.unique_id, Employees.name
-FROM Employees
-LEFT JOIN EmployeeUNI
-on Employees.id = EmployeeUNI.id
+SELECT eu.unique_id AS unique_id, e.name AS name
+FROM Employees e
+LEFT JOIN EmployeeUNI eu
+ON e.id = eu.id
