@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0424-longest-repeating-character-replacement) |
 | [0837-most-common-word](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0837-most-common-word) |
+| [1250-longest-common-subsequence](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
