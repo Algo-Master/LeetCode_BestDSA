@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0424-longest-repeating-character-replacement) |
 | [0837-most-common-word](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0837-most-common-word) |
 | [1250-longest-common-subsequence](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1250-longest-common-subsequence) |
