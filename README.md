@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0300-longest-increasing-subsequence) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0780-max-chunks-to-make-sorted) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1013-fibonacci-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/1046-max-consecutive-ones-iii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Algo-Master/LeetCode_Interviews-Network/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
